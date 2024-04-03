@@ -1,4 +1,4 @@
-print("Nhập các dòng văn bản (Nhập 'done' để thoát): ")
+print("Nhap cac dong van ban (Nhap 'done' de thoat): ")
 lines = []
 
 while True:
@@ -7,6 +7,6 @@ while True:
         break
     lines.append(line)
 
-print("Các dòng văn bản sau khi in hoa")
+print("Cac dong van ban sau khi in hoa")
 for line in lines:
     print(line.upper())

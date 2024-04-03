@@ -6,5 +6,5 @@ def la_so_nguyen_to(value):
     return cnt == 2
 
 
-number = int(input("Nhập số cần kiểm tra: "))
+number = int(input("Nhap so can kiem tra: "))
 print(la_so_nguyen_to())

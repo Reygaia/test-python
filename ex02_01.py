@@ -1,4 +1,4 @@
-name = input("Nhập tên của bạn: ")
-age = input("Nhập tuổi của bạn: ")
+name = input("Nhap ten cua ban: ")
+age = input("Nhap tuoi cua ban: ")
 
 print("Chào mừng bạn", name, age,"tuổi")

@@ -1,4 +1,4 @@
-input_str = input("Nhập X: ")
+input_str = input("Nhap X: ")
 
 dimension = [int(x) for x in input_str.split(',')]
 

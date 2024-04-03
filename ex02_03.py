@@ -1,6 +1,6 @@
-number = int(input("Nhập số cần kiểm tra: "))
+number = int(input("Nhap so can kiem tra: "))
 if(number % 2 == 0):
-    print(number, "là số chẵn")
+    print(number, "la so chan!")
 else: 
-    print(number, "là số lẻ")
+    print(number, "la so le!")
     
